@@ -14,9 +14,9 @@
         // ALL YOUR CODE GOES BELOW HERE ///////////////////////////////////////
         
         // example: 
-        cannon.create.onTop(450);
-        
-        
+        cannon.create.onTop(400);
+        cannon.create.onBottom(150);
+        cannon.create.onTop(675);
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////
